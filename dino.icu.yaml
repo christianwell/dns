@@ -841,7 +841,6 @@ pc: # https://github.com/MCPE-PC/dino.icu
   type: CNAME
   value: dino-icu.pages.dev.
 
-
 periodic:
   ttl: 600
   type: CNAME
